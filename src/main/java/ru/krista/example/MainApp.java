@@ -6,8 +6,11 @@ package ru.krista.example;
 public class MainApp {
     public static void main(String[] args) {
         // Scanner in = new Scanner(System.in);
+        // создвли ппеременную класса
         Calculator call = new Calculator();
+        // вызываем функцию ввода
         call.getEnter();
+        // вызываем функцию расчета
         call.cals();
 
         // гладиолус

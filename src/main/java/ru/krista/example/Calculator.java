@@ -9,6 +9,7 @@ public class Calculator {
     String operation;
     int result;
 
+    // конструктор
     public Calculator() {
         num1 = 0;
         num2 = 0;
