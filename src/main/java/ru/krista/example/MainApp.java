@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class MainApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        // гладиолус
 
         while (true) {
 
